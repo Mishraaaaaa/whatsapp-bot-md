@@ -39,7 +39,7 @@
       "required": true
     },
     "HEROKU_API_KEY": {
-      "description": "Heroku account api key, https://dashboard.heroku.com/account",
+      "description": "HRKU-167f35af-f19f-4ace-8d00-6d90b0ee31e0",
       "required": true
     },
     "RMBG_KEY": {
